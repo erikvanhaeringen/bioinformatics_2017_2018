@@ -1,3 +1,3 @@
-ownername: erikvanhaeringen
+ownername: erikvanhaeringe
 reponame: pcfbcourse
 committername: erikvanhaeringen
